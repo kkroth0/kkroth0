@@ -25,7 +25,7 @@ _Sua bio aqui — cargo, anos de experiência, especialidades._
 
 _Segundo parágrafo — o que você constrói, background, no que foca._
 
-<!-- seus badges/certificações reais, se tiver -->
+<img src="./comptia-security+-ce.png" width="110"/>
 
 `Skill 1` · `Skill 2` · `Skill 3` · `Skill 4`
 
