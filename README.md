@@ -27,9 +27,9 @@ _Segundo parágrafo — o que você constrói, background, no que foca._
 
 <img src="./comptia-security+-ce.png" width="110"/> &nbsp; <img src="./exin-isfs.png" width="110"/>
 
-`Threat Intelligence (Axur)` · `Security Automation (Python, Go)` · `SIEM & SOAR (Elastic, Sentinel)` · `Incident Response`
+`Threat Intelligence (Axur)` · `Security Automation (Python, Go)` · `SIEM & SOAR (Elastic, Sentinel)`
 
-`Threat Hunting` · `Trend Vision One (EDR)` · `Vulnerability Management`
+`Incident Response` · `Threat Hunting` · `Trend Vision One (EDR)` · `Vulnerability Management`
 
 </td></tr>
 </table>
