@@ -41,4 +41,4 @@ _I build Python-based workflows that reduce manual work and transform threat dat
 |:---:|:---:|
 | [_`Threat Summ4ry`_](https://threatsumm4ry.app/) | _<mark>`CTI/CTH triage at feed speed, on your own keys`</mark> open-source DRP with a BYOK approach: threat-intel-tuned open models (DeepSeek, Qwen) summarize report feeds, draft hunting hypotheses, and run phishing analysis._ |
 | [_`FortiBleed Dataset Lookup`_](https://github.com/kkroth0/fortibleed-dataset-lookup) | _<mark>`Know your exposure to FortiBleed in one query`</mark> lets a company check whether its domains appear in the public FortiBleed dataset, turning a headline incident into a concrete, actionable answer._ |
-| [_`Projeto 3`_](https://github.com/kkroth0/projeto-3) | _<mark>`Resultado em uma linha`</mark> descrição curta do que faz._ |
+| [_`Axur Automation`_](https://github.com/kkroth0/Axur-Automation) | _<mark>`Axur threat data where the SOC already works`</mark> open-source integrations pushing Axur into Elastic Security and Microsoft Sentinel, plus a Python library that handles the plumbing for CTI teams._ |
