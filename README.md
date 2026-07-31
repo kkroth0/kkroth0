@@ -27,7 +27,9 @@ _Segundo parágrafo — o que você constrói, background, no que foca._
 
 <img src="./comptia-security+-ce.png" width="110"/> &nbsp; <img src="./exin-isfs.png" width="110"/>
 
-`Skill 1` · `Skill 2` · `Skill 3` · `Skill 4`
+`Threat Intelligence (Axur)` · `Security Automation` · `SIEM & SOAR (Elastic, Sentinel)` · `Incident Response`
+
+`Threat Hunting` · `Trend Vision One (EDR)` · `Vulnerability Management`
 
 </td></tr>
 </table>
