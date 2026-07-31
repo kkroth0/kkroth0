@@ -21,9 +21,9 @@
 
 **About**
 
-_Sua bio aqui — cargo, anos de experiência, especialidades._
+_Cybersecurity Analyst focused on Threat Intelligence, Threat Hunting, Detection Engineering, and Security Automation. Experienced in enterprise CTI and SOC operations, investigating external threats, developing hunting hypotheses and detection use cases, and supporting incident response._
 
-_Segundo parágrafo — o que você constrói, background, no que foca._
+_I build Python-based workflows that reduce manual work and transform threat data into actionable intelligence. My experience includes Microsoft Sentinel, Trend Vision One, Axur, Elastic Security, Microsoft Entra ID, MITRE ATT&CK, and adversary infrastructure analysis._
 
 <img src="./comptia-security+-ce.png" width="110"/> &nbsp; <img src="./exin-isfs.png" width="110"/>
 
