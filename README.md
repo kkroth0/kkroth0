@@ -39,6 +39,6 @@ _I build Python-based workflows that reduce manual work and transform threat dat
 
 | Featured projects | What it delivers |
 |:---:|:---:|
-| [_`Projeto 1`_](https://github.com/kkroth0/projeto-1) | _<mark>`Resultado em uma linha`</mark> descrição curta do que faz._ |
+| [_`Threat Summ4ry`_](https://threatsumm4ry.app/) | _<mark>`CTI/CTH triage at feed speed, on your own keys`</mark> open-source DRP with a BYOK approach: threat-intel-tuned open models (DeepSeek, Qwen) summarize report feeds, draft hunting hypotheses, and run phishing analysis._ |
 | [_`Projeto 2`_](https://github.com/kkroth0/projeto-2) | _<mark>`Resultado em uma linha`</mark> descrição curta do que faz._ |
 | [_`Projeto 3`_](https://github.com/kkroth0/projeto-3) | _<mark>`Resultado em uma linha`</mark> descrição curta do que faz._ |
