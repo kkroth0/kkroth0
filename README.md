@@ -2,23 +2,6 @@
 <table>
 <tr><td align="center">
 
-<!-- banner: coloque sua imagem em ./banner.png e o link do seu site -->
-<a href="https://SEU-SITE.com"><img src="./banner.png"/></a>
-
-</td></tr>
-</table>
-</div>
-
-| Coluna A | Coluna B |
-|:---:|:---:|
-| _Texto da esquerda._<br><br>_[Link 1](#) . [Link 2](#) . [Link 3](#)_ | _Texto da direita._<br><br>_[Link 1](#) . [Link 2](#) . [Link 3](#)_ |
-
--------------------------
-
-<div align="center">
-<table>
-<tr><td align="center">
-
 **About**
 
 _Cybersecurity Analyst focused on Threat Intelligence, Threat Hunting, Detection Engineering, and Security Automation. Experienced in enterprise CTI and SOC operations, investigating external threats, developing hunting hypotheses and detection use cases, and supporting incident response._
